@@ -1,0 +1,6 @@
+﻿/DB Browser for SQLite
+*bin*
+*build*
+*.user
+*user*
+*.txt
